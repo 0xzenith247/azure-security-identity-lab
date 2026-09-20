@@ -28,5 +28,4 @@ An implementation-focused lab documenting Zero Trust identity architectures, clo
     │   ├── sentinel-kql-hunting.kql
     │   └── incident-triage.md
     └── 03-priva-and-purview/
-        └── ai-data-security-framework.md# azure-security-identity-lab
-Hands-on implementation of Zero Trust architectures, Microsoft Entra ID Conditional Access, Purview AI data governance, and cloud security foundations.
+        └── ai-data-security-framework.md
